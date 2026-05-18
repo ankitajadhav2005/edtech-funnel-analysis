@@ -1,4 +1,4 @@
-#  EdTech Funnel Analysis (Power BI | SQL | Python)
+#  Lead Conversion & Funnel Performance Analysis (Power BI | SQL | Python)
 
 ---
 
